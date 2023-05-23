@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  position: relative;
+  padding: 10px 16px;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(88, 85, 85);
+  border-radius: 12px;
+  border: 2px solid rgb(150, 148, 148);
+  background: linear-gradient(to bottom, rgb(242, 241, 241), rgb(176, 172, 172));
+  box-shadow:
+    0 1px 1.2px rgb(184, 181, 181),
+    0 0 1px 8px rgb(216, 216, 216),
+    0 0 1px 10px #fff,
+    0 0 2px 12px #333;
+}
+
+.star {
+  color: rgb(156, 150, 150);
+  text-shadow: 0 0 2px rgb(194, 188, 188);
+}

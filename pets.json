@@ -1,0 +1,26 @@
+[
+  {
+    "color": "white",
+    "type": "dog",
+    "size": "small",
+    "name": "Marshmallow"
+  },
+  {
+    "color": "brown",
+    "type": "dog",
+    "size": "small",
+    "name": "Latte"
+  },
+  {
+    "color": "brown",
+    "type": "cat",
+    "size": "small",
+    "name": "Brownie"
+  },
+  {
+    "color": "black",
+    "type": "cat",
+    "size": "small",
+    "name": "Sesame"
+  }
+]
